@@ -1,4 +1,4 @@
-object HelloWorld {
+object Zadanie2 {
   def main(args: Array[String]) : Unit = {
     val daysOfWeek = List(
       "poniedziałek", 

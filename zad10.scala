@@ -1,4 +1,4 @@
-object HelloWorld {
+object Zadanie10 {
   def main(args: Array[String]) : Unit = {
     val realNumbers = List(1.0, -2.0, -5.0, 10.0, -44.0, 0.0, 22.0, 12.0, -22.0, 13.0, 5.0)
 

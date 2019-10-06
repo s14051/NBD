@@ -1,4 +1,4 @@
-object HelloWorld {
+object Zadanie6 {
   def main(args: Array[String]) : Unit = {
     val tuple = ("jakiś string", 22, true)
     printTuple(tuple)

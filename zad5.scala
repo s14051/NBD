@@ -1,4 +1,4 @@
-object HelloWorld {
+object Zadanie5 {
   def main(args: Array[String]) : Unit = {
     val itemsPrices = Map("czekolada" -> 5.00, "jablko" -> 1.00, "komputer" -> 6000.00)
     
