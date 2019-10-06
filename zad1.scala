@@ -6,30 +6,59 @@ object Zadanie1 {
       "środa",
       "czwartek",
       "piątek",
-      "sobota")
+      "sobota",
+      "niedziela")
     
-    printListUsingWhileLoop(daysOfWeek)
+    println(createStringUsingForLoop(daysOfWeek))
+    println(createStringUsingForLoopWhereElemsStartWithP(daysOfWeek))
+    println(createStringUsingWhileLoop(daysOfWeek))
   }
   
-  def printListUsingForLoop(list: List[String]) : Unit = {
+  def createStringUsingForLoop(list: List[String]) : String = {
+    var result = ""
+    var i = 0
+    
     for(elem <- list) {
-      println(elem)
+      if(i == 0) 
+        result = elem
+      else
+        result = result + ", " + elem  
+      
+      i = i + 1
     }
+    
+    result
   }
   
-  def printListUsingForLoopWhereElemsStartWithP(list: List[String]) : Unit = {
+  def createStringUsingForLoopWhereElemsStartWithP(list: List[String]) : String = {
+    var result = ""
+    var i = 0
+    
     for(elem <- list.filter(_.toUpperCase().startsWith("P"))) {
-      println(elem)
+      if(i == 0) 
+        result = elem
+      else
+        result = result + ", " + elem  
+      
+      i = i + 1
     }
+    
+    result
   }
   
-  def printListUsingWhileLoop(list: List[String]) : Unit = {
+  def createStringUsingWhileLoop(list: List[String]) : String = {
     val numberOfElements = list.length;
     var i = 0;
+    var result = ""
     
     while (i < numberOfElements) {
-      println(list(i))
+      if(i == 0) 
+        result = list(i)
+      else
+        result = result + ", " + list(i)  
       i = i+1
     }
+    
+    result
   }
 }
