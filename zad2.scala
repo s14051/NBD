@@ -9,6 +9,7 @@ object Zadanie2 {
       "sobota",
       "niedziela")
     
+    println(makeCommaSeparatedStringFrom(daysOfWeek))
     println(makeReversedCommaSeparatedStringFrom(daysOfWeek))
   }
   
