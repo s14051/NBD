@@ -1,0 +1,371 @@
+MongoDB shell version v4.2.0
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("fc38832d-0023-4fdd-a53c-5124f52100d2") }
+MongoDB server version: 4.2.0
+[
+	{
+		"Średnia ilość środków" : 16755.49,
+		"łączne środki na karcie" : 5585.163333333334,
+		"waluta" : "AFN"
+	},
+	{
+		"Średnia ilość środków" : 3325.48,
+		"łączne środki na karcie" : 3325.48,
+		"waluta" : "ALL"
+	},
+	{
+		"Średnia ilość środków" : 24609.33,
+		"łączne środki na karcie" : 4921.866,
+		"waluta" : "AMD"
+	},
+	{
+		"Średnia ilość środków" : 23242,
+		"łączne środki na karcie" : 4648.4,
+		"waluta" : "ARS"
+	},
+	{
+		"Średnia ilość środków" : 21200.88,
+		"łączne środki na karcie" : 5300.22,
+		"waluta" : "BGN"
+	},
+	{
+		"Średnia ilość środków" : 5263.3,
+		"łączne środki na karcie" : 5263.3,
+		"waluta" : "BOB"
+	},
+	{
+		"Średnia ilość środków" : 49632.020000000004,
+		"łączne środki na karcie" : 4512.001818181819,
+		"waluta" : "BRL"
+	},
+	{
+		"Średnia ilość środków" : 4076.29,
+		"łączne środki na karcie" : 4076.29,
+		"waluta" : "BWP"
+	},
+	{
+		"Średnia ilość środków" : 5095.79,
+		"łączne środki na karcie" : 5095.79,
+		"waluta" : "BYR"
+	},
+	{
+		"Średnia ilość środków" : 58375.6,
+		"łączne środki na karcie" : 5306.872727272727,
+		"waluta" : "CAD"
+	},
+	{
+		"Średnia ilość środków" : 12228.8,
+		"łączne środki na karcie" : 6114.4,
+		"waluta" : "CDF"
+	},
+	{
+		"Średnia ilość środków" : 21008.95,
+		"łączne środki na karcie" : 5252.2375,
+		"waluta" : "CLP"
+	},
+	{
+		"Średnia ilość środków" : 470700.38,
+		"łączne środki na karcie" : 4954.740842105263,
+		"waluta" : "CNY"
+	},
+	{
+		"Średnia ilość środków" : 19746.73,
+		"łączne środki na karcie" : 4936.6825,
+		"waluta" : "COP"
+	},
+	{
+		"Średnia ilość środków" : 15017.34,
+		"łączne środki na karcie" : 5005.78,
+		"waluta" : "CUP"
+	},
+	{
+		"Średnia ilość środków" : 37156.42,
+		"łączne środki na karcie" : 4644.5525,
+		"waluta" : "CZK"
+	},
+	{
+		"Średnia ilość środków" : 20674.739999999998,
+		"łączne środki na karcie" : 5168.6849999999995,
+		"waluta" : "DOP"
+	},
+	{
+		"Średnia ilość środków" : 5579.3,
+		"łączne środki na karcie" : 5579.3,
+		"waluta" : "EGP"
+	},
+	{
+		"Średnia ilość środków" : 5436.11,
+		"łączne środki na karcie" : 5436.11,
+		"waluta" : "ETB"
+	},
+	{
+		"Średnia ilość środków" : 245091.47,
+		"łączne środki na karcie" : 4901.8294,
+		"waluta" : "EUR"
+	},
+	{
+		"Średnia ilość środków" : 6149.19,
+		"łączne środki na karcie" : 6149.19,
+		"waluta" : "GBP"
+	},
+	{
+		"Średnia ilość środków" : 5806.3,
+		"łączne środki na karcie" : 5806.3,
+		"waluta" : "GTQ"
+	},
+	{
+		"Średnia ilość środków" : 16514.59,
+		"łączne środki na karcie" : 5504.863333333334,
+		"waluta" : "HNL"
+	},
+	{
+		"Średnia ilość środków" : 24354.82,
+		"łączne środki na karcie" : 4870.964,
+		"waluta" : "HRK"
+	},
+	{
+		"Średnia ilość środków" : 323922.59,
+		"łączne środki na karcie" : 4907.918030303031,
+		"waluta" : "IDR"
+	},
+	{
+		"Średnia ilość środków" : 16295.49,
+		"łączne środki na karcie" : 5431.83,
+		"waluta" : "ILS"
+	},
+	{
+		"Średnia ilość środków" : 4269.39,
+		"łączne środki na karcie" : 4269.39,
+		"waluta" : "IQD"
+	},
+	{
+		"Średnia ilość środków" : 26504.239999999998,
+		"łączne środki na karcie" : 4417.373333333333,
+		"waluta" : "IRR"
+	},
+	{
+		"Średnia ilość środków" : 4316.41,
+		"łączne środki na karcie" : 4316.41,
+		"waluta" : "ISK"
+	},
+	{
+		"Średnia ilość środków" : 60944.74,
+		"łączne środki na karcie" : 5078.7283333333335,
+		"waluta" : "JPY"
+	},
+	{
+		"Średnia ilość środków" : 13379.82,
+		"łączne środki na karcie" : 6689.91,
+		"waluta" : "KRW"
+	},
+	{
+		"Średnia ilość środków" : 3760.89,
+		"łączne środki na karcie" : 3760.89,
+		"waluta" : "KYD"
+	},
+	{
+		"Średnia ilość środków" : 3788.95,
+		"łączne środki na karcie" : 3788.95,
+		"waluta" : "KZT"
+	},
+	{
+		"Średnia ilość środków" : 8764.99,
+		"łączne środki na karcie" : 4382.495,
+		"waluta" : "LYD"
+	},
+	{
+		"Średnia ilość środków" : 3818.85,
+		"łączne środki na karcie" : 3818.85,
+		"waluta" : "MAD"
+	},
+	{
+		"Średnia ilość środków" : 14560.99,
+		"łączne środki na karcie" : 4853.663333333333,
+		"waluta" : "MGA"
+	},
+	{
+		"Średnia ilość środków" : 3835.05,
+		"łączne środki na karcie" : 3835.05,
+		"waluta" : "MKD"
+	},
+	{
+		"Średnia ilość środków" : 4629.42,
+		"łączne środki na karcie" : 4629.42,
+		"waluta" : "MMK"
+	},
+	{
+		"Średnia ilość środków" : 21715.61,
+		"łączne środki na karcie" : 5428.9025,
+		"waluta" : "MNT"
+	},
+	{
+		"Średnia ilość środków" : 3574.42,
+		"łączne środki na karcie" : 3574.42,
+		"waluta" : "MWK"
+	},
+	{
+		"Średnia ilość środków" : 50229,
+		"łączne środki na karcie" : 5022.9,
+		"waluta" : "MXN"
+	},
+	{
+		"Średnia ilość środków" : 4781.12,
+		"łączne środki na karcie" : 4781.12,
+		"waluta" : "MYR"
+	},
+	{
+		"Średnia ilość środków" : 24946.23,
+		"łączne środki na karcie" : 4157.705,
+		"waluta" : "NGN"
+	},
+	{
+		"Średnia ilość środków" : 9971.28,
+		"łączne środki na karcie" : 4985.64,
+		"waluta" : "NIO"
+	},
+	{
+		"Średnia ilość środków" : 4773.66,
+		"łączne środki na karcie" : 4773.66,
+		"waluta" : "NOK"
+	},
+	{
+		"Średnia ilość środków" : 5792.26,
+		"łączne środki na karcie" : 5792.26,
+		"waluta" : "NPR"
+	},
+	{
+		"Średnia ilość środków" : 5328.46,
+		"łączne środki na karcie" : 5328.46,
+		"waluta" : "NZD"
+	},
+	{
+		"Średnia ilość środków" : 23227.35,
+		"łączne środki na karcie" : 4645.469999999999,
+		"waluta" : "PEN"
+	},
+	{
+		"Średnia ilość środków" : 118606.28,
+		"łączne środki na karcie" : 4941.928333333333,
+		"waluta" : "PHP"
+	},
+	{
+		"Średnia ilość środków" : 18938,
+		"łączne środki na karcie" : 4734.5,
+		"waluta" : "PKR"
+	},
+	{
+		"Średnia ilość środków" : 90770.78,
+		"łączne środki na karcie" : 5042.821111111111,
+		"waluta" : "PLN"
+	},
+	{
+		"Średnia ilość środków" : 4874.69,
+		"łączne środki na karcie" : 4874.69,
+		"waluta" : "PYG"
+	},
+	{
+		"Średnia ilość środków" : 4276.56,
+		"łączne środki na karcie" : 4276.56,
+		"waluta" : "RSD"
+	},
+	{
+		"Średnia ilość środków" : 119749.15,
+		"łączne środki na karcie" : 4989.547916666666,
+		"waluta" : "RUB"
+	},
+	{
+		"Średnia ilość środków" : 4632.88,
+		"łączne środki na karcie" : 4632.88,
+		"waluta" : "RWF"
+	},
+	{
+		"Średnia ilość środków" : 70840.19,
+		"łączne środki na karcie" : 5060.013571428572,
+		"waluta" : "SEK"
+	},
+	{
+		"Średnia ilość środków" : 5286.68,
+		"łączne środki na karcie" : 5286.68,
+		"waluta" : "SRD"
+	},
+	{
+		"Średnia ilość środków" : 23021.96,
+		"łączne środki na karcie" : 4604.392,
+		"waluta" : "THB"
+	},
+	{
+		"Średnia ilość środków" : 4087.71,
+		"łączne środki na karcie" : 4087.71,
+		"waluta" : "TJS"
+	},
+	{
+		"Średnia ilość środków" : 7052.370000000001,
+		"łączne środki na karcie" : 3526.1850000000004,
+		"waluta" : "TZS"
+	},
+	{
+		"Średnia ilość środków" : 40471.840000000004,
+		"łączne środki na karcie" : 5058.9800000000005,
+		"waluta" : "UAH"
+	},
+	{
+		"Średnia ilość środków" : 80650.7,
+		"łączne środki na karcie" : 5040.66875,
+		"waluta" : "USD"
+	},
+	{
+		"Średnia ilość środków" : 3573.03,
+		"łączne środki na karcie" : 3573.03,
+		"waluta" : "UZS"
+	},
+	{
+		"Średnia ilość środków" : 8333.28,
+		"łączne środki na karcie" : 4166.64,
+		"waluta" : "VEF"
+	},
+	{
+		"Średnia ilość środków" : 36160.26,
+		"łączne środki na karcie" : 4520.0325,
+		"waluta" : "VND"
+	},
+	{
+		"Średnia ilość środków" : 6418.27,
+		"łączne środki na karcie" : 6418.27,
+		"waluta" : "VUV"
+	},
+	{
+		"Średnia ilość środków" : 14094.66,
+		"łączne środki na karcie" : 4698.22,
+		"waluta" : "XAF"
+	},
+	{
+		"Średnia ilość środków" : 17882.05,
+		"łączne środki na karcie" : 5960.683333333333,
+		"waluta" : "XOF"
+	},
+	{
+		"Średnia ilość środków" : 4759.07,
+		"łączne środki na karcie" : 4759.07,
+		"waluta" : "XPF"
+	},
+	{
+		"Średnia ilość środków" : 13712.5,
+		"łączne środki na karcie" : 4570.833333333333,
+		"waluta" : "YER"
+	},
+	{
+		"Średnia ilość środków" : 11790.92,
+		"łączne środki na karcie" : 3930.306666666667,
+		"waluta" : "ZAR"
+	},
+	{
+		"Średnia ilość środków" : 5569.56,
+		"łączne środki na karcie" : 5569.56,
+		"waluta" : "ZMW"
+	},
+	{
+		"Średnia ilość środków" : 5792.17,
+		"łączne środki na karcie" : 5792.17,
+		"waluta" : "ZWL"
+	}
+]
