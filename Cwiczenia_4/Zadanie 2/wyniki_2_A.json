@@ -1,0 +1,622 @@
+MongoDB shell version v4.2.0
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("5f1de286-c3f3-412d-962c-819a0da69f3b") }
+MongoDB server version: 4.2.0
+[
+	{
+		"łączne środki na karcie" : 1301224.95,
+		"waluta" : "NGN"
+	},
+	{
+		"łączne środki na karcie" : 8354757.95,
+		"waluta" : "PHP"
+	},
+	{
+		"łączne środki na karcie" : 693053.85,
+		"waluta" : "BYR"
+	},
+	{
+		"łączne środki na karcie" : 39048.74,
+		"waluta" : "ISK"
+	},
+	{
+		"łączne środki na karcie" : 13053.5,
+		"waluta" : "GYD"
+	},
+	{
+		"łączne środki na karcie" : 2103307.17,
+		"waluta" : "THB"
+	},
+	{
+		"łączne środki na karcie" : 32068.850000000002,
+		"waluta" : "MVR"
+	},
+	{
+		"łączne środki na karcie" : 947722.84,
+		"waluta" : "ZAR"
+	},
+	{
+		"łączne środki na karcie" : 73222.48,
+		"waluta" : "GNF"
+	},
+	{
+		"łączne środki na karcie" : 182130.48,
+		"waluta" : "MUR"
+	},
+	{
+		"łączne środki na karcie" : 88106.83,
+		"waluta" : "MWK"
+	},
+	{
+		"łączne środki na karcie" : 67582.8,
+		"waluta" : "AOA"
+	},
+	{
+		"łączne środki na karcie" : 687770.55,
+		"waluta" : "PKR"
+	},
+	{
+		"łączne środki na karcie" : 511625.27,
+		"waluta" : "SYP"
+	},
+	{
+		"łączne środki na karcie" : 446738.59,
+		"waluta" : "KRW"
+	},
+	{
+		"łączne środki na karcie" : 225111.38999999998,
+		"waluta" : "LKR"
+	},
+	{
+		"łączne środki na karcie" : 61445.270000000004,
+		"waluta" : "PGK"
+	},
+	{
+		"łączne środki na karcie" : 22698.46,
+		"waluta" : "BHD"
+	},
+	{
+		"łączne środki na karcie" : 86305.05,
+		"waluta" : "LAK"
+	},
+	{
+		"łączne środki na karcie" : 16809.66,
+		"waluta" : "KYD"
+	},
+	{
+		"łączne środki na karcie" : 45782.33,
+		"waluta" : "BIF"
+	},
+	{
+		"łączne środki na karcie" : 9983,
+		"waluta" : "SBD"
+	},
+	{
+		"łączne środki na karcie" : 100447.58,
+		"waluta" : "KHR"
+	},
+	{
+		"łączne środki na karcie" : 44044.89,
+		"waluta" : "TTD"
+	},
+	{
+		"łączne środki na karcie" : 21354.39,
+		"waluta" : "ANG"
+	},
+	{
+		"łączne środki na karcie" : 24172.940000000002,
+		"waluta" : "INR"
+	},
+	{
+		"łączne środki na karcie" : 177401.05,
+		"waluta" : "TJS"
+	},
+	{
+		"łączne środki na karcie" : 82203.48,
+		"waluta" : "SOS"
+	},
+	{
+		"łączne środki na karcie" : 161706,
+		"waluta" : "SAR"
+	},
+	{
+		"łączne środki na karcie" : 1998158.32,
+		"waluta" : "CAD"
+	},
+	{
+		"łączne środki na karcie" : 766163.99,
+		"waluta" : "ILS"
+	},
+	{
+		"łączne środki na karcie" : 617053.52,
+		"waluta" : "TZS"
+	},
+	{
+		"łączne środki na karcie" : 1568281.9,
+		"waluta" : "MXN"
+	},
+	{
+		"łączne środki na karcie" : 345203.25,
+		"waluta" : "UGX"
+	},
+	{
+		"łączne środki na karcie" : 214942.07,
+		"waluta" : "JOD"
+	},
+	{
+		"łączne środki na karcie" : 538809.21,
+		"waluta" : "DOP"
+	},
+	{
+		"łączne środki na karcie" : 8648162.27,
+		"waluta" : "RUB"
+	},
+	{
+		"łączne środki na karcie" : 88501.85,
+		"waluta" : "KWD"
+	},
+	{
+		"łączne środki na karcie" : 201447.71,
+		"waluta" : "JMD"
+	},
+	{
+		"łączne środki na karcie" : 776758.6,
+		"waluta" : "NOK"
+	},
+	{
+		"łączne środki na karcie" : 671978.45,
+		"waluta" : "MYR"
+	},
+	{
+		"łączne środki na karcie" : 138004.7,
+		"waluta" : "KMF"
+	},
+	{
+		"łączne środki na karcie" : 15803638.67,
+		"waluta" : "IDR"
+	},
+	{
+		"łączne środki na karcie" : 263374.09,
+		"waluta" : "NIO"
+	},
+	{
+		"łączne środki na karcie" : 157963.9,
+		"waluta" : "GMD"
+	},
+	{
+		"łączne środki na karcie" : 516264.06,
+		"waluta" : "MAD"
+	},
+	{
+		"łączne środki na karcie" : 538164.28,
+		"waluta" : "EGP"
+	},
+	{
+		"łączne środki na karcie" : 215992.13,
+		"waluta" : "HTG"
+	},
+	{
+		"łączne środki na karcie" : 37711.08,
+		"waluta" : "BTN"
+	},
+	{
+		"łączne środki na karcie" : 92068.64,
+		"waluta" : "MZN"
+	},
+	{
+		"łączne środki na karcie" : 52973.33,
+		"waluta" : "AED"
+	},
+	{
+		"łączne środki na karcie" : 226778.17,
+		"waluta" : "MMK"
+	},
+	{
+		"łączne środki na karcie" : 5337.77,
+		"waluta" : "MOP"
+	},
+	{
+		"łączne środki na karcie" : 677925.57,
+		"waluta" : "AFN"
+	},
+	{
+		"łączne środki na karcie" : 403957.97000000003,
+		"waluta" : "CLP"
+	},
+	{
+		"łączne środki na karcie" : 168150.01,
+		"waluta" : "XCD"
+	},
+	{
+		"łączne środki na karcie" : 113099.62,
+		"waluta" : "TMT"
+	},
+	{
+		"łączne środki na karcie" : 227902.01,
+		"waluta" : "KPW"
+	},
+	{
+		"łączne środki na karcie" : 291487.63,
+		"waluta" : "PYG"
+	},
+	{
+		"łączne środki na karcie" : 147943.58,
+		"waluta" : "ZWL"
+	},
+	{
+		"łączne środki na karcie" : 403856.73,
+		"waluta" : "AZN"
+	},
+	{
+		"łączne środki na karcie" : 37654,
+		"waluta" : "TWD"
+	},
+	{
+		"łączne środki na karcie" : 4154939.09,
+		"waluta" : "USD"
+	},
+	{
+		"łączne środki na karcie" : 43326.06,
+		"waluta" : "LBP"
+	},
+	{
+		"łączne środki na karcie" : 197545.65,
+		"waluta" : "LYD"
+	},
+	{
+		"łączne środki na karcie" : 173318.73,
+		"waluta" : "MDL"
+	},
+	{
+		"łączne środki na karcie" : 5189,
+		"waluta" : "BMD"
+	},
+	{
+		"łączne środki na karcie" : 55420.34,
+		"waluta" : "NAD"
+	},
+	{
+		"łączne środki na karcie" : 363643.61,
+		"waluta" : "PAB"
+	},
+	{
+		"łączne środki na karcie" : 5118.97,
+		"waluta" : "FKP"
+	},
+	{
+		"łączne środki na karcie" : 699650.32,
+		"waluta" : "HRK"
+	},
+	{
+		"łączne środki na karcie" : 108940.64,
+		"waluta" : "CHF"
+	},
+	{
+		"łączne środki na karcie" : 55361.39,
+		"waluta" : "BSD"
+	},
+	{
+		"łączne środki na karcie" : 14734.27,
+		"waluta" : "DJF"
+	},
+	{
+		"łączne środki na karcie" : 2601019.27,
+		"waluta" : "JPY"
+	},
+	{
+		"łączne środki na karcie" : 157276.96,
+		"waluta" : "GEL"
+	},
+	{
+		"łączne środki na karcie" : 87008.08,
+		"waluta" : "OMR"
+	},
+	{
+		"łączne środki na karcie" : 42256.53,
+		"waluta" : "SSP"
+	},
+	{
+		"łączne środki na karcie" : 7782.66,
+		"waluta" : "BND"
+	},
+	{
+		"łączne środki na karcie" : 230882.59,
+		"waluta" : "LTL"
+	},
+	{
+		"łączne środki na karcie" : 46538.51,
+		"waluta" : "CVE"
+	},
+	{
+		"łączne środki na karcie" : 146606.65,
+		"waluta" : "NPR"
+	},
+	{
+		"łączne środki na karcie" : 294843.38,
+		"waluta" : "BDT"
+	},
+	{
+		"łączne środki na karcie" : 597758.09,
+		"waluta" : "GTQ"
+	},
+	{
+		"łączne środki na karcie" : 3738579.57,
+		"waluta" : "SEK"
+	},
+	{
+		"łączne środki na karcie" : 54883.45,
+		"waluta" : "LRD"
+	},
+	{
+		"łączne środki na karcie" : 638306.07,
+		"waluta" : "VEF"
+	},
+	{
+		"łączne środki na karcie" : 27776263.33,
+		"waluta" : "CNY"
+	},
+	{
+		"łączne środki na karcie" : 243512.86,
+		"waluta" : "GBP"
+	},
+	{
+		"łączne środki na karcie" : 43299.96,
+		"waluta" : "RWF"
+	},
+	{
+		"łączne środki na karcie" : 754247.57,
+		"waluta" : "XAF"
+	},
+	{
+		"łączne środki na karcie" : 655866.63,
+		"waluta" : "ALL"
+	},
+	{
+		"łączne środki na karcie" : 26269.07,
+		"waluta" : "LSL"
+	},
+	{
+		"łączne środki na karcie" : 18424.47,
+		"waluta" : "TOP"
+	},
+	{
+		"łączne środki na karcie" : 644907.42,
+		"waluta" : "MNT"
+	},
+	{
+		"łączne środki na karcie" : 4854.36,
+		"waluta" : "STD"
+	},
+	{
+		"łączne środki na karcie" : 9321.43,
+		"waluta" : "FJD"
+	},
+	{
+		"łączne środki na karcie" : 11557.6,
+		"waluta" : "RON"
+	},
+	{
+		"łączne środki na karcie" : 21598.47,
+		"waluta" : "ERN"
+	},
+	{
+		"łączne środki na karcie" : 12166.2,
+		"waluta" : "DZD"
+	},
+	{
+		"łączne środki na karcie" : 225770.32,
+		"waluta" : "DKK"
+	},
+	{
+		"łączne środki na karcie" : 446949.89,
+		"waluta" : "MKD"
+	},
+	{
+		"łączne środki na karcie" : 7282.73,
+		"waluta" : "AWG"
+	},
+	{
+		"łączne środki na karcie" : 134649.56,
+		"waluta" : "SDG"
+	},
+	{
+		"łączne środki na karcie" : 27742.45,
+		"waluta" : "BZD"
+	},
+	{
+		"łączne środki na karcie" : 944111.3,
+		"waluta" : "XOF"
+	},
+	{
+		"łączne środki na karcie" : 517904.09,
+		"waluta" : "CUP"
+	},
+	{
+		"łączne środki na karcie" : 54117.17,
+		"waluta" : "MRO"
+	},
+	{
+		"łączne środki na karcie" : 23188.93,
+		"waluta" : "VUV"
+	},
+	{
+		"łączne środki na karcie" : 415965.47,
+		"waluta" : "BAM"
+	},
+	{
+		"łączne środki na karcie" : 26720.5,
+		"waluta" : "BBD"
+	},
+	{
+		"łączne środki na karcie" : 132926.01,
+		"waluta" : "XPF"
+	},
+	{
+		"łączne środki na karcie" : 12820.48,
+		"waluta" : "SGD"
+	},
+	{
+		"łączne środki na karcie" : 817695.24,
+		"waluta" : "HNL"
+	},
+	{
+		"łączne środki na karcie" : 237715.67,
+		"waluta" : "UYU"
+	},
+	{
+		"łączne środki na karcie" : 16913519.13,
+		"waluta" : "EUR"
+	},
+	{
+		"łączne środki na karcie" : 628234.91,
+		"waluta" : "AMD"
+	},
+	{
+		"łączne środki na karcie" : 178097.37,
+		"waluta" : "CDF"
+	},
+	{
+		"łączne środki na karcie" : 5676516.76,
+		"waluta" : "BRL"
+	},
+	{
+		"łączne środki na karcie" : 2668722.74,
+		"waluta" : "CZK"
+	},
+	{
+		"łączne środki na karcie" : 5127210.21,
+		"waluta" : "PLN"
+	},
+	{
+		"łączne środki na karcie" : 176827.79,
+		"waluta" : "KGS"
+	},
+	{
+		"łączne środki na karcie" : 822119.3,
+		"waluta" : "RSD"
+	},
+	{
+		"łączne środki na karcie" : 334544.06,
+		"waluta" : "CRC"
+	},
+	{
+		"łączne środki na karcie" : 502248.52,
+		"waluta" : "BGN"
+	},
+	{
+		"łączne środki na karcie" : 583657.38,
+		"waluta" : "YER"
+	},
+	{
+		"łączne środki na karcie" : 273491.26,
+		"waluta" : "KES"
+	},
+	{
+		"łączne środki na karcie" : 325755.9,
+		"waluta" : "TND"
+	},
+	{
+		"łączne środki na karcie" : 36358.92,
+		"waluta" : "QAR"
+	},
+	{
+		"łączne środki na karcie" : 116224.9,
+		"waluta" : "SLL"
+	},
+	{
+		"łączne środki na karcie" : 14797.58,
+		"waluta" : "SCR"
+	},
+	{
+		"łączne środki na karcie" : 18414.53,
+		"waluta" : "TRY"
+	},
+	{
+		"łączne środki na karcie" : 19686.77,
+		"waluta" : "SRD"
+	},
+	{
+		"łączne środki na karcie" : 2531920.9,
+		"waluta" : "UAH"
+	},
+	{
+		"łączne środki na karcie" : 160940.53,
+		"waluta" : "ZMW"
+	},
+	{
+		"łączne środki na karcie" : 59113.090000000004,
+		"waluta" : "SZL"
+	},
+	{
+		"łączne środki na karcie" : 601904.37,
+		"waluta" : "KZT"
+	},
+	{
+		"łączne środki na karcie" : 382347.12,
+		"waluta" : "MGA"
+	},
+	{
+		"łączne środki na karcie" : 1967570.17,
+		"waluta" : "ARS"
+	},
+	{
+		"łączne środki na karcie" : 165192.16,
+		"waluta" : "HUF"
+	},
+	{
+		"łączne środki na karcie" : 355832.98,
+		"waluta" : "NZD"
+	},
+	{
+		"łączne środki na karcie" : 83159.05,
+		"waluta" : "GHS"
+	},
+	{
+		"łączne środki na karcie" : 23023.02,
+		"waluta" : "HKD"
+	},
+	{
+		"łączne środki na karcie" : 242667.03,
+		"waluta" : "AUD"
+	},
+	{
+		"łączne środki na karcie" : 1418903.3699999999,
+		"waluta" : "VND"
+	},
+	{
+		"łączne środki na karcie" : 167531.82,
+		"waluta" : "IQD"
+	},
+	{
+		"łączne środki na karcie" : 334451.77,
+		"waluta" : "UZS"
+	},
+	{
+		"łączne środki na karcie" : 30739.64,
+		"waluta" : "WST"
+	},
+	{
+		"łączne środki na karcie" : 804397.05,
+		"waluta" : "IRR"
+	},
+	{
+		"łączne środki na karcie" : 2381759.99,
+		"waluta" : "PEN"
+	},
+	{
+		"łączne środki na karcie" : 1980543.49,
+		"waluta" : "COP"
+	},
+	{
+		"łączne środki na karcie" : 257433.54,
+		"waluta" : "BOB"
+	},
+	{
+		"łączne środki na karcie" : 146972.04,
+		"waluta" : "BWP"
+	},
+	{
+		"łączne środki na karcie" : 273507.6,
+		"waluta" : "ETB"
+	}
+]
