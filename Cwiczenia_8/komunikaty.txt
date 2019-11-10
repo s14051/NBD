@@ -1,0 +1,5 @@
+Dodano studenta
+Dane nowo dodanego studenta: {'NBD': True, 'name': 'Maciej Sados'}
+Zmodyfikowano pole NBD: {'NBD': False, 'name': 'Maciej Sados'}
+Usunieto studenta... proba pobrania jego danych...
+Pobrany usuniety student: None
