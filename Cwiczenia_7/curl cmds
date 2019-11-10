@@ -1,0 +1,14 @@
+-- LIST BUCKETS
+curl -i http://localhost:8098/buckets?buckets=true
+
+-- LIST KEYS IN BUCKET
+curl -i http://localhost:8098/buckets/s14051/keys?keys=true
+
+-- VIEW Value
+curl -i http://localhost:8098/buckets/s14051/keys/K_E_Y
+
+-- POST
+curl -XPOST -i -H "Content-Type: application/json" -d '{"name": "Jan", "age": 22, "is-old": false, "houses-count": 1}' http://localhost:8098/buckets/s14051/keys/person1
+
+-- DELETE
+curl -XDELETE -i http://localhost:8098/buckets/s14051/keys/K_E_Y

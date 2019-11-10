@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/fq7bvwXIVhfKYEpkzGNlOPbK5jpfFgA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s14051>; rel="up"
+Last-Modified: Sun, 10 Nov 2019 20:10:46 GMT
+ETag: "1FEtA91SyQ0kNE3JVOcD0Z"
+Date: Sun, 10 Nov 2019 20:17:53 GMT
+Content-Type: application/json
+Content-Length: 62
+
+{"name": "Jan", "age": 22, "is-old": false, "houses-count": 1}

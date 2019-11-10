@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Sun, 10 Nov 2019 20:37:20 GMT
+Content-Type: application/json
+Content-Length: 80
+
+{"keys":["person2","person1","Mkm5Gv5O6axzuByZeyQrdjykHt9","person5","person4"]}
+
+
+
+
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/fq7bv30eA4O6UAZTImMeK8OuDzbX+bIA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s14051>; rel="up"
+Last-Modified: Sun, 10 Nov 2019 20:36:10 GMT
+ETag: "1SmAwTBX6YkLF85HzumV39"
+Date: Sun, 10 Nov 2019 20:37:46 GMT
+Content-Type: application/json
+Content-Length: 10
+
+{"cos": 1}

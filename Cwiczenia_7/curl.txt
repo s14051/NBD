@@ -1,0 +1,56 @@
+1.
+curl -XPOST -i -H "Content-Type: application/json" -d '{"name": "Jan", "age": 22, "is-old": false, "houses-count": 1}' http://localhost:8098/buckets/s14051/keys/person1
+
+curl -XPOST -i -H "Content-Type: application/json" -d '{"name": "Andrzej", "age": 90, "is-old": true, "houses-count": 2}' http://localhost:8098/buckets/s14051/keys/person2
+
+curl -XPOST -i -H "Content-Type: application/json" -d '{"name": "Bogdan", "age": -0.5, "is-old": false, "houses-count": -1}' http://localhost:8098/buckets/s14051/keys/person3
+
+curl -XPOST -i -H "Content-Type: application/json" -d '{"name": "Gienio", "age": 70, "is-old": true, "houses-count": 10}' http://localhost:8098/buckets/s14051/keys/person4
+
+curl -XPOST -i -H "Content-Type: application/json" -d '{"name": "Maria", "age": 30, "is-old": false, "houses-count": 0}' http://localhost:8098/buckets/s14051/keys/person5
+
+
+
+2. 
+curl -i http://localhost:8098/buckets/s14051/keys/person1
+
+
+
+3.
+curl -XPUT -i -H "Content-Type: application/json" -d '{"name": "Jan", "age": 22, "is-old": false, "houses-count": 1, "nowe-pole": "dodane pole"}' http://localhost:8098/buckets/s14051/keys/person1
+
+
+
+4.
+curl -XPUT -i -H "Content-Type: application/json" -d '{"name": "Jan", "age": 22, "is-old": false, "houses-count": 1}' http://localhost:8098/buckets/s14051/keys/person1
+
+
+
+5.
+curl -XPUT -i -H "Content-Type: application/json" -d '{"name": "Jan", "age": 22, "is-old": false, "houses-count": 50}' http://localhost:8098/buckets/s14051/keys/person1
+
+
+
+6.
+curl -XDELETE -i http://localhost:8098/buckets/s14051/keys/person3
+
+
+
+7.
+curl -i http://localhost:8098/buckets/s14051/keys/nieistniejacy-klucz
+
+
+
+8.
+curl -XPOST -i -H "Content-Type: application/json" -d '{"cos": 1}' http://localhost:8098/buckets/s14051/keys/
+
+
+
+9.
+curl -i http://localhost:8098/buckets/s14051/keys?keys=true
+curl -i http://localhost:8098/buckets/s14051/keys/Mkm5Gv5O6axzuByZeyQrdjykHt9
+
+
+
+10.
+curl -XDELETE -i http://localhost:8098/buckets/s14051/keys/Mkm5Gv5O6axzuByZeyQrdjykHt9
