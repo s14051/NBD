@@ -1,0 +1,157 @@
+﻿"[r IN relationships(path) | r.name + "": "" + type(r)]",total_dist
+"[Darjeeling-Tumbling: trek,Tumbling-Gairibus: trek,Gairibus-BhikeBhanja: trek,BhikeBhanja-Sandakphu: trek]",32
+"[Darjeeling-Tumbling: road,Tumbling-Gairibus: trek,Gairibus-BhikeBhanja: trek,BhikeBhanja-Sandakphu: trek]",32
+"[Darjeeling-Tumbling: trek,Tumbling-Gairibus: road,Gairibus-BhikeBhanja: trek,BhikeBhanja-Sandakphu: trek]",32
+"[Darjeeling-Tumbling: road,Tumbling-Gairibus: road,Gairibus-BhikeBhanja: trek,BhikeBhanja-Sandakphu: trek]",32
+"[Darjeeling-Tumbling: trek,Tumbling-Gairibus: twowheeler,Gairibus-BhikeBhanja: trek,BhikeBhanja-Sandakphu: trek]",32
+"[Darjeeling-Tumbling: road,Tumbling-Gairibus: twowheeler,Gairibus-BhikeBhanja: trek,BhikeBhanja-Sandakphu: trek]",32
+"[Darjeeling-Tumbling: trek,Tumbling-Gairibus: trek,Gairibus-BhikeBhanja: road,BhikeBhanja-Sandakphu: trek]",32
+"[Darjeeling-Tumbling: road,Tumbling-Gairibus: trek,Gairibus-BhikeBhanja: road,BhikeBhanja-Sandakphu: trek]",32
+"[Darjeeling-Tumbling: trek,Tumbling-Gairibus: road,Gairibus-BhikeBhanja: road,BhikeBhanja-Sandakphu: trek]",32
+"[Darjeeling-Tumbling: road,Tumbling-Gairibus: road,Gairibus-BhikeBhanja: road,BhikeBhanja-Sandakphu: trek]",32
+"[Darjeeling-Tumbling: trek,Tumbling-Gairibus: twowheeler,Gairibus-BhikeBhanja: road,BhikeBhanja-Sandakphu: trek]",32
+"[Darjeeling-Tumbling: road,Tumbling-Gairibus: twowheeler,Gairibus-BhikeBhanja: road,BhikeBhanja-Sandakphu: trek]",32
+"[Darjeeling-Tumbling: trek,Tumbling-Gairibus: trek,Gairibus-BhikeBhanja: twowheeler,BhikeBhanja-Sandakphu: trek]",32
+"[Darjeeling-Tumbling: road,Tumbling-Gairibus: trek,Gairibus-BhikeBhanja: twowheeler,BhikeBhanja-Sandakphu: trek]",32
+"[Darjeeling-Tumbling: trek,Tumbling-Gairibus: road,Gairibus-BhikeBhanja: twowheeler,BhikeBhanja-Sandakphu: trek]",32
+"[Darjeeling-Tumbling: road,Tumbling-Gairibus: road,Gairibus-BhikeBhanja: twowheeler,BhikeBhanja-Sandakphu: trek]",32
+"[Darjeeling-Tumbling: trek,Tumbling-Gairibus: twowheeler,Gairibus-BhikeBhanja: twowheeler,BhikeBhanja-Sandakphu: trek]",32
+"[Darjeeling-Tumbling: road,Tumbling-Gairibus: twowheeler,Gairibus-BhikeBhanja: twowheeler,BhikeBhanja-Sandakphu: trek]",32
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-BhikeBhanja: trek,BhikeBhanja-Sandakphu: trek]",37
+"[Darjeeling-Rimbik: road,Rimbik-BhikeBhanja: trek,BhikeBhanja-Sandakphu: trek]",37
+"[Darjeeling-Rimbik: trek,Rimbik-BhikeBhanja: trek,BhikeBhanja-Sandakphu: trek]",37
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: trek,Sirikhola-Gurdum: trek,Gurdum-Sandakphu: trek]",37
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: trek,Sirikhola-Gurdum: trek,Gurdum-Sandakphu: trek]",37
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: trek,Sirikhola-Gurdum: trek,Gurdum-Sandakphu: trek]",37
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: twowheeler,Sirikhola-Gurdum: trek,Gurdum-Sandakphu: trek]",37
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: twowheeler,Sirikhola-Gurdum: trek,Gurdum-Sandakphu: trek]",37
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: twowheeler,Sirikhola-Gurdum: trek,Gurdum-Sandakphu: trek]",37
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: trek,Sirikhola-Gurdum: twowheeler,Gurdum-Sandakphu: trek]",37
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: trek,Sirikhola-Gurdum: twowheeler,Gurdum-Sandakphu: trek]",37
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: trek,Sirikhola-Gurdum: twowheeler,Gurdum-Sandakphu: trek]",37
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: twowheeler,Sirikhola-Gurdum: twowheeler,Gurdum-Sandakphu: trek]",37
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: twowheeler,Sirikhola-Gurdum: twowheeler,Gurdum-Sandakphu: trek]",37
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: twowheeler,Sirikhola-Gurdum: twowheeler,Gurdum-Sandakphu: trek]",37
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: trek,Sirikhola-Gurdum: trek,Gurdum-Sandakphu: twowheeler]",37
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: trek,Sirikhola-Gurdum: trek,Gurdum-Sandakphu: twowheeler]",37
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: trek,Sirikhola-Gurdum: trek,Gurdum-Sandakphu: twowheeler]",37
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: twowheeler,Sirikhola-Gurdum: trek,Gurdum-Sandakphu: twowheeler]",37
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: twowheeler,Sirikhola-Gurdum: trek,Gurdum-Sandakphu: twowheeler]",37
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: twowheeler,Sirikhola-Gurdum: trek,Gurdum-Sandakphu: twowheeler]",37
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: trek,Sirikhola-Gurdum: twowheeler,Gurdum-Sandakphu: twowheeler]",37
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: trek,Sirikhola-Gurdum: twowheeler,Gurdum-Sandakphu: twowheeler]",37
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: trek,Sirikhola-Gurdum: twowheeler,Gurdum-Sandakphu: twowheeler]",37
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: twowheeler,Sirikhola-Gurdum: twowheeler,Gurdum-Sandakphu: twowheeler]",37
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: twowheeler,Sirikhola-Gurdum: twowheeler,Gurdum-Sandakphu: twowheeler]",37
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: twowheeler,Sirikhola-Gurdum: twowheeler,Gurdum-Sandakphu: twowheeler]",37
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Tumbling: trek,Tumbling-Gairibus: trek,Gairibus-BhikeBhanja: trek,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: road,Rimbik-Tumbling: trek,Tumbling-Gairibus: trek,Gairibus-BhikeBhanja: trek,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: trek,Rimbik-Tumbling: trek,Tumbling-Gairibus: trek,Gairibus-BhikeBhanja: trek,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Tumbling: trek,Tumbling-Gairibus: road,Gairibus-BhikeBhanja: trek,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: road,Rimbik-Tumbling: trek,Tumbling-Gairibus: road,Gairibus-BhikeBhanja: trek,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: trek,Rimbik-Tumbling: trek,Tumbling-Gairibus: road,Gairibus-BhikeBhanja: trek,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Tumbling: trek,Tumbling-Gairibus: twowheeler,Gairibus-BhikeBhanja: trek,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: road,Rimbik-Tumbling: trek,Tumbling-Gairibus: twowheeler,Gairibus-BhikeBhanja: trek,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: trek,Rimbik-Tumbling: trek,Tumbling-Gairibus: twowheeler,Gairibus-BhikeBhanja: trek,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Tumbling: trek,Tumbling-Gairibus: trek,Gairibus-BhikeBhanja: road,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: road,Rimbik-Tumbling: trek,Tumbling-Gairibus: trek,Gairibus-BhikeBhanja: road,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: trek,Rimbik-Tumbling: trek,Tumbling-Gairibus: trek,Gairibus-BhikeBhanja: road,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Tumbling: trek,Tumbling-Gairibus: road,Gairibus-BhikeBhanja: road,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: road,Rimbik-Tumbling: trek,Tumbling-Gairibus: road,Gairibus-BhikeBhanja: road,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: trek,Rimbik-Tumbling: trek,Tumbling-Gairibus: road,Gairibus-BhikeBhanja: road,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Tumbling: trek,Tumbling-Gairibus: twowheeler,Gairibus-BhikeBhanja: road,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: road,Rimbik-Tumbling: trek,Tumbling-Gairibus: twowheeler,Gairibus-BhikeBhanja: road,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: trek,Rimbik-Tumbling: trek,Tumbling-Gairibus: twowheeler,Gairibus-BhikeBhanja: road,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Tumbling: trek,Tumbling-Gairibus: trek,Gairibus-BhikeBhanja: twowheeler,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: road,Rimbik-Tumbling: trek,Tumbling-Gairibus: trek,Gairibus-BhikeBhanja: twowheeler,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: trek,Rimbik-Tumbling: trek,Tumbling-Gairibus: trek,Gairibus-BhikeBhanja: twowheeler,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Tumbling: trek,Tumbling-Gairibus: road,Gairibus-BhikeBhanja: twowheeler,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: road,Rimbik-Tumbling: trek,Tumbling-Gairibus: road,Gairibus-BhikeBhanja: twowheeler,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: trek,Rimbik-Tumbling: trek,Tumbling-Gairibus: road,Gairibus-BhikeBhanja: twowheeler,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Tumbling: trek,Tumbling-Gairibus: twowheeler,Gairibus-BhikeBhanja: twowheeler,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: road,Rimbik-Tumbling: trek,Tumbling-Gairibus: twowheeler,Gairibus-BhikeBhanja: twowheeler,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: trek,Rimbik-Tumbling: trek,Tumbling-Gairibus: twowheeler,Gairibus-BhikeBhanja: twowheeler,BhikeBhanja-Sandakphu: trek]",44
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: trek,Sirikhola-Rammam: trek,Rammam-Gurdum: trek,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: trek,Sirikhola-Rammam: trek,Rammam-Gurdum: trek,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: trek,Sirikhola-Rammam: trek,Rammam-Gurdum: trek,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: trek,Rammam-Gurdum: trek,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: trek,Rammam-Gurdum: trek,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: trek,Rammam-Gurdum: trek,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: trek,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: trek,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: trek,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: trek,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: trek,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: trek,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: trek,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: trek,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: trek,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: trek,Sirikhola-Rammam: trek,Rammam-Gurdum: road,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: trek,Sirikhola-Rammam: trek,Rammam-Gurdum: road,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: trek,Sirikhola-Rammam: trek,Rammam-Gurdum: road,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: trek,Rammam-Gurdum: road,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: trek,Rammam-Gurdum: road,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: trek,Rammam-Gurdum: road,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: trek,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: road,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: trek,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: road,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: trek,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: road,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: road,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: road,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: road,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: trek,Sirikhola-Rammam: trek,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: trek,Sirikhola-Rammam: trek,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: trek,Sirikhola-Rammam: trek,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: trek,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: trek,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: trek,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: trek,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: trek,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: trek,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: trek]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: trek,Sirikhola-Rammam: trek,Rammam-Gurdum: trek,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: trek,Sirikhola-Rammam: trek,Rammam-Gurdum: trek,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: trek,Sirikhola-Rammam: trek,Rammam-Gurdum: trek,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: trek,Rammam-Gurdum: trek,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: trek,Rammam-Gurdum: trek,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: trek,Rammam-Gurdum: trek,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: trek,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: trek,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: trek,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: trek,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: trek,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: trek,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: trek,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: trek,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: trek,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: trek,Sirikhola-Rammam: trek,Rammam-Gurdum: road,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: trek,Sirikhola-Rammam: trek,Rammam-Gurdum: road,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: trek,Sirikhola-Rammam: trek,Rammam-Gurdum: road,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: trek,Rammam-Gurdum: road,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: trek,Rammam-Gurdum: road,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: trek,Rammam-Gurdum: road,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: trek,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: road,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: trek,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: road,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: trek,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: road,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: road,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: road,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: road,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: trek,Sirikhola-Rammam: trek,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: trek,Sirikhola-Rammam: trek,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: trek,Sirikhola-Rammam: trek,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: trek,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: trek,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: trek,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: trek,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: trek,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: trek,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: twowheeler,Rammam-Gurdum: twowheeler,Gurdum-Sandakphu: twowheeler]",48
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: trek,Sirikhola-Rammam: trek,Rammam-Sabargram: trek,Rammam-Sabargram: trek]",55
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: trek,Sirikhola-Rammam: trek,Rammam-Sabargram: trek,Rammam-Sabargram: trek]",55
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: trek,Sirikhola-Rammam: trek,Rammam-Sabargram: trek,Rammam-Sabargram: trek]",55
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: trek,Rammam-Sabargram: trek,Rammam-Sabargram: trek]",55
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: trek,Rammam-Sabargram: trek,Rammam-Sabargram: trek]",55
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: trek,Rammam-Sabargram: trek,Rammam-Sabargram: trek]",55
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: trek,Sirikhola-Rammam: twowheeler,Rammam-Sabargram: trek,Rammam-Sabargram: trek]",55
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: trek,Sirikhola-Rammam: twowheeler,Rammam-Sabargram: trek,Rammam-Sabargram: trek]",55
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: trek,Sirikhola-Rammam: twowheeler,Rammam-Sabargram: trek,Rammam-Sabargram: trek]",55
+"[Darjeeling-Rimbik: PublicTransport,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: twowheeler,Rammam-Sabargram: trek,Rammam-Sabargram: trek]",55
+"[Darjeeling-Rimbik: road,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: twowheeler,Rammam-Sabargram: trek,Rammam-Sabargram: trek]",55
+"[Darjeeling-Rimbik: trek,Rimbik-Sirikhola: twowheeler,Sirikhola-Rammam: twowheeler,Rammam-Sabargram: trek,Rammam-Sabargram: trek]",55
